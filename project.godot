@@ -16,8 +16,8 @@ _global_script_class_icons={
 [application]
 
 config/name="Cruze 8"
-config/icon="res://icon.png"
+run/main_scene="res://Scenes/World.tscn"
 
-[rendering]
+[editor_plugins]
 
-environment/default_environment="res://default_env.tres"
+enabled=PoolStringArray(  )
